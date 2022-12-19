@@ -2,7 +2,7 @@
 import {
     BtnFeedback, BtnWrap
 } from "./Feedback.styled";
-import App from 'components/App';
+// import App from 'components/App';
 import PropTypes from 'prop-types';
 
 
